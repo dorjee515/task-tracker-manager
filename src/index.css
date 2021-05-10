@@ -7,10 +7,17 @@
 }
 
 body {
+  
   font-family: 'Poppins', sans-serif;
+  background-image: url("a1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
 }
 
 .container {
+  background-color: cornflowerblue;
   max-width: 500px;
   margin: 30px auto;
   overflow: auto;
@@ -18,6 +25,8 @@ body {
   border: 1px solid steelblue;
   padding: 30px;
   border-radius: 5px;
+ 
+
 }
 
 .header {
@@ -84,6 +93,7 @@ body {
 }
 
 .form-control input {
+  background-color: honeydew;
   width: 100%;
   height: 40px;
   margin: 5px;

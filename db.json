@@ -1,16 +1,3 @@
 {
-  "tasks": [
-    {
-      "id": 2,
-      "text": "Implementation of react",
-      "day": "march 3",
-      "reminder": true
-    },
-    {
-      "text": "Gym",
-      "day": "tuesday,5pm",
-      "reminder": true,
-      "id": 3
-    }
-  ]
+  "tasks": []
 }
